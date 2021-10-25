@@ -1,0 +1,1 @@
+UPDATE sqlite_sequence SET seq = 0 WHERE sqlite_sequence.name = "sales_customer"
